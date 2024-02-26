@@ -7,7 +7,7 @@ I am a Web Developer & Tech Enthusiast
 I have been learning code for the past 4 years and have a keen interest in learning the latest technologies & frameworks.
 
 * 🌍  I'm based in India
-* 👉  My Skills are ☕️ Java, ExtJs, Spring, Hibernate, MySQL, AWS.
+* 👉  My Skills are ☕️ Java 8, Kafka, Springboot, Hibernate, MySQL, ExtJs, AWS.
 * ✉️  You can contact me at [shailo199925@gmail.com](mailto:shailo199925@gmail.com)
 * 🧠  I'm learning Web3
 * 🤝  I'm open to collaborating on Web3 Projects, Web Developement Projects and many more cool stuff...
