@@ -9,7 +9,6 @@ I have been learning code for the past 4 years and have a keen interest in learn
 * 🌍  I'm based in India
 * 👉  My Skills are ☕️ Java 8, Kafka, Springboot, Hibernate, MySQL, ExtJs, AWS and many more.
 * ✉️  You can contact me at [shailo199925@gmail.com](mailto:shailo199925@gmail.com)
-* 🧠  I'm learning Web3
 * 🤝  I'm open to collaborating on SaaS Projects, Web Developement Projects and many more cool stuff...
 * ⚡  I am also into gaming and was a professional esports player !!
 
