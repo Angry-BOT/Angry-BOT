@@ -7,7 +7,7 @@ I am a Web Developer & Tech Enthusiast
 I have been learning code for the past 4 years and have a keen interest in learning the latest technologies & frameworks.
 
 * 🌍  I'm based in India
-* 👉  My Skills are ☕️ Java 8, Kafka, Springboot, Hibernate, MySQL, ExtJs, AWS and many more.
+* 👉  My Skills are ☕️ Java 8, Typescript, Node Js, React Js, Redux, Spring Boot, Nest Js, AWS (EC2, S3, RDS)..
 * ✉️  You can contact me at [shailo199925@gmail.com](mailto:shailo199925@gmail.com)
 * 🤝  I'm open to collaborating on SaaS Projects, Web Developement Projects and many more cool stuff...
 * ⚡  I am also into gaming and was a professional esports player !!
